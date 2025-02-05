@@ -10,8 +10,6 @@ import org.bukkit.entity.Player;
 import me.clip.placeholderapi.expansion.PlaceholderExpansion;
 
 public class MCPToolExpansion extends PlaceholderExpansion {
-
-    // Constants for plugin information
     public static final boolean CAN_REGISTER = true;
     public static final String AUTHOR = "MCPTool";
     public static final String IDENTIFIER = "rce";
